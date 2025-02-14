@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a booking website<br>👯 I’m looking to collaborate with professional web developer<br>🤝 I’m looking for help with programming expert<br>🌱 I’m currently learning Laravel framework, tailwind css, nextjs, nodejs<br>⚡ Fun fact: I love to learn and explore the programming world
+🔭 I’m currently working on a booking website<br>👯 I’m looking to collaborate with professional web developer<br>🤝 I’m looking for help with programming expert<br>🌱 I’m currently learning Laravel framework, tailwind css, react, nodejs<br>⚡ Fun fact: I love to learn and explore the programming world
 
 
 ## 🌐 Socials:
